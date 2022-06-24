@@ -1,4 +1,4 @@
-### Olá! Eu sou o Viniciusos17
+### Olá! Eu sou o Vinícius Oliveira
 
 - 🔭 Hoje trabalho com cobranças
 - 🌱 Estou estudando front end
