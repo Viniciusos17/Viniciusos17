@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícius Oliveira
 
 - 🔭 Hoje trabalho com cobranças
-- 🌱 Estou estudando front end
+- 🌱 Estou estudando front-end
 
 <div 
    align="center">
